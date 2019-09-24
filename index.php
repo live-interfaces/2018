@@ -26,7 +26,7 @@
 		<header>
 			<h1>ICLI</h1>
 			
-			<h1><img src="img/quad<?php $x = rand(1,3); echo $x; ?>.jpg"><span>2018<br />PORTO</span></h1>						
+			<h1><img src="img/quad1.jpg"><span>2018<br />PORTO</span></h1>						
 			<h2>International Conference on Live Inter&shy;faces <em>Porto</em> Portugal</h2>
 			<h2 class="s">June 14–16</h2>
 			<h2 class="s">Conference Program</h2>
